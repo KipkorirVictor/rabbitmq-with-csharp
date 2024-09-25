@@ -1,0 +1,17 @@
+D:\Projects\c#\rabbitmq\Receive\obj\Debug\net8.0\Receive.csproj.AssemblyReference.cache
+D:\Projects\c#\rabbitmq\Receive\obj\Debug\net8.0\Receive.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\c#\rabbitmq\Receive\obj\Debug\net8.0\Receive.AssemblyInfoInputs.cache
+D:\Projects\c#\rabbitmq\Receive\obj\Debug\net8.0\Receive.AssemblyInfo.cs
+D:\Projects\c#\rabbitmq\Receive\obj\Debug\net8.0\Receive.csproj.CoreCompileInputs.cache
+D:\Projects\c#\rabbitmq\receive\bin\Debug\net8.0\Receive.exe
+D:\Projects\c#\rabbitmq\receive\bin\Debug\net8.0\Receive.deps.json
+D:\Projects\c#\rabbitmq\receive\bin\Debug\net8.0\Receive.runtimeconfig.json
+D:\Projects\c#\rabbitmq\receive\bin\Debug\net8.0\Receive.dll
+D:\Projects\c#\rabbitmq\receive\bin\Debug\net8.0\Receive.pdb
+D:\Projects\c#\rabbitmq\receive\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\Projects\c#\rabbitmq\receive\obj\Debug\net8.0\Receive.csproj.Up2Date
+D:\Projects\c#\rabbitmq\receive\obj\Debug\net8.0\Receive.dll
+D:\Projects\c#\rabbitmq\receive\obj\Debug\net8.0\refint\Receive.dll
+D:\Projects\c#\rabbitmq\receive\obj\Debug\net8.0\Receive.pdb
+D:\Projects\c#\rabbitmq\receive\obj\Debug\net8.0\Receive.genruntimeconfig.cache
+D:\Projects\c#\rabbitmq\receive\obj\Debug\net8.0\ref\Receive.dll

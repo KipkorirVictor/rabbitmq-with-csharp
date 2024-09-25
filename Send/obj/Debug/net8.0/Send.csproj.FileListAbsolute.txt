@@ -1,0 +1,17 @@
+D:\Projects\c#\rabbitmq\Send\obj\Debug\net8.0\Send.csproj.AssemblyReference.cache
+D:\Projects\c#\rabbitmq\Send\obj\Debug\net8.0\Send.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\c#\rabbitmq\Send\obj\Debug\net8.0\Send.AssemblyInfoInputs.cache
+D:\Projects\c#\rabbitmq\Send\obj\Debug\net8.0\Send.AssemblyInfo.cs
+D:\Projects\c#\rabbitmq\Send\obj\Debug\net8.0\Send.csproj.CoreCompileInputs.cache
+D:\Projects\c#\rabbitmq\send\bin\Debug\net8.0\Send.exe
+D:\Projects\c#\rabbitmq\send\bin\Debug\net8.0\Send.deps.json
+D:\Projects\c#\rabbitmq\send\bin\Debug\net8.0\Send.runtimeconfig.json
+D:\Projects\c#\rabbitmq\send\bin\Debug\net8.0\Send.dll
+D:\Projects\c#\rabbitmq\send\bin\Debug\net8.0\Send.pdb
+D:\Projects\c#\rabbitmq\send\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\Projects\c#\rabbitmq\send\obj\Debug\net8.0\Send.csproj.Up2Date
+D:\Projects\c#\rabbitmq\send\obj\Debug\net8.0\Send.dll
+D:\Projects\c#\rabbitmq\send\obj\Debug\net8.0\refint\Send.dll
+D:\Projects\c#\rabbitmq\send\obj\Debug\net8.0\Send.pdb
+D:\Projects\c#\rabbitmq\send\obj\Debug\net8.0\Send.genruntimeconfig.cache
+D:\Projects\c#\rabbitmq\send\obj\Debug\net8.0\ref\Send.dll
