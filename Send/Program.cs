@@ -35,7 +35,7 @@ class Program
 
     private static void SendMessage(Object? source, ElapsedEventArgs e)
     {
-        const string message = "Hello World!";
+        const string message = "Victor and Nathan live in Lembus Apartments";
         var body = Encoding.UTF8.GetBytes(message);
 
         _channel.BasicPublish(exchange: string.Empty, routingKey: _queueName, basicProperties: null, body: body);

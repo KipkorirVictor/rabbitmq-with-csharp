@@ -15,3 +15,4 @@ D:\Projects\c#\rabbitmq\send\obj\Debug\net8.0\refint\Send.dll
 D:\Projects\c#\rabbitmq\send\obj\Debug\net8.0\Send.pdb
 D:\Projects\c#\rabbitmq\send\obj\Debug\net8.0\Send.genruntimeconfig.cache
 D:\Projects\c#\rabbitmq\send\obj\Debug\net8.0\ref\Send.dll
+D:\Projects\c#\rabbitmq\send\obj\Debug\net8.0\Send.sourcelink.json

@@ -15,3 +15,4 @@ D:\Projects\c#\rabbitmq\receive\obj\Debug\net8.0\refint\Receive.dll
 D:\Projects\c#\rabbitmq\receive\obj\Debug\net8.0\Receive.pdb
 D:\Projects\c#\rabbitmq\receive\obj\Debug\net8.0\Receive.genruntimeconfig.cache
 D:\Projects\c#\rabbitmq\receive\obj\Debug\net8.0\ref\Receive.dll
+D:\Projects\c#\rabbitmq\receive\obj\Debug\net8.0\Receive.sourcelink.json
